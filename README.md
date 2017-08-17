@@ -18,7 +18,7 @@ Server is running on `http://localhost:5001`.
 See test.html
 
 ```html
-<img width="500" src="http://localhost:5001/118540238/>
+<img width="500" src="http://localhost:5001/118540238/">
 ```
 
 ## License
